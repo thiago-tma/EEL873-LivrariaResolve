@@ -19,4 +19,4 @@ A Livraria Resolve atua no mercao de venda de livros de arte e livros raros, de 
 
 A prioridade atual do sistema é apoiar a equipe de vendas a realizar transações via internet, com possibilidade de estender as funções para auxiliar outras tarefas na empresa. A importância do apoio a vendas se dá pela perda de clientes por conta dos atrasos no processo de atendimento. 'Atendimento' é entendido na empresa como o pagamento e a entrega do livro solicitado pelo cliente, mas a experiência do mesmo com o negócio abrange também o cadastro e a solicitação de livros.
 
-Antes de refinar o conceito do sistema, uma entrevista com o restante das pessoas de interesse deve ser realizada.
+Antes de refinar o conceito do sistema, uma entrevista com o restante das partes interessadas (PIs) deve ser realizada.
