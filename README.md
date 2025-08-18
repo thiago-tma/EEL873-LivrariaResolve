@@ -1,7 +1,7 @@
 # EEL873-LivrariaResolve
 Repositório do trabalho da disciplina EEL873 (Engenharia de Software). Trabalho tem como base um sistema de atendimento a clientes da Livraria Resolve, uma livraria especializada em livros raros e de alto valor agregado, os quais, geralmente, já saíram de catálago.
 
-# Coleta de Requisitos do Sistema (5W2H)
+# Tarefa 1: Relatório de Entrevista com Proprietário (5W2H)
 
 Foi realizada uma entrevista na empresa com o proprietário da Livraria Resolve, Arnaldo Américo, da qual foram obtidas as seguintes informações.
 
@@ -20,3 +20,5 @@ A Livraria Resolve atua no mercao de venda de livros de arte e livros raros, de 
 A prioridade atual do sistema é apoiar a equipe de vendas a realizar transações via internet, com possibilidade de estender as funções para auxiliar outras tarefas na empresa. A importância do apoio a vendas se dá pela perda de clientes por conta dos atrasos no processo de atendimento. 'Atendimento' é entendido na empresa como o pagamento e a entrega do livro solicitado pelo cliente, mas a experiência do mesmo com o negócio abrange também o cadastro e a solicitação de livros.
 
 Antes de refinar o conceito do sistema, uma entrevista com o restante das partes interessadas (PIs) deve ser realizada.
+
+# Tarefa 2: Identificação de Partes Interessadas
