@@ -22,3 +22,6 @@ A prioridade atual do sistema é apoiar a equipe de vendas a realizar pedidos e 
 Antes de refinar o conceito do sistema, uma entrevista com o restante das partes interessadas (PIs) deve ser realizada.
 
 # Tarefa 2: Identificação de Partes Interessadas
+
+Uma planilha foi criada para registrar as partes interessadas, seus objetivos e os diferentes meios pelos quais estas podem impactar o projeto.
+[Link da planilha](https://docs.google.com/spreadsheets/d/1DUdSgmw2rfjZduCucBqQiNxWH2wCIFqd32IC56AAFic/edit?usp=sharing)
