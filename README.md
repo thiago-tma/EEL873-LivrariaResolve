@@ -25,3 +25,12 @@ Antes de refinar o conceito do sistema, uma entrevista com o restante das partes
 
 Uma planilha foi criada para registrar as partes interessadas, seus objetivos e os diferentes meios pelos quais estas podem impactar o projeto.
 [Link da planilha](https://docs.google.com/spreadsheets/d/1DUdSgmw2rfjZduCucBqQiNxWH2wCIFqd32IC56AAFic/edit?usp=sharing)
+
+# Tarefa 3: Identificação de Desejos
+
+Foram coletados 5 funções desejadas pelas partes interessadas.
+-  **(Must)** Venda de livros pela internet (Apoiadores: Proprietário, Diretor)(Resistentes: Gerente Geral)
+-  **(Must)** Acompanhamento de pedidos  (Apoiadores: Gerente Geral, Vendedores)
+-  **(Must)** Integração com sistema de contabilidade (Apoiadores: Gerente Geral, Vendedores, Gerente de TI)
+-  **(Should)** Dados e fichas de clientes (Apoiadores: Diretor, Gerente Geral, Vendedores)
+-  **(Should)** Relatório de compra/venda mensal (Apoiadores: Diretor)
