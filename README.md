@@ -34,3 +34,7 @@ Foram coletados 5 funções desejadas pelas partes interessadas.
 -  **(Must)** Integração com sistema de contabilidade (Apoiadores: Gerente Geral, Vendedores, Gerente de TI)
 -  **(Should)** Dados e fichas de clientes (Apoiadores: Diretor, Gerente Geral, Vendedores)
 -  **(Should)** Relatório de compra/venda mensal (Apoiadores: Diretor)
+
+# Tarefa 4 : Registro de Processos (BPMN)
+
+A partir das entrevistas realizadas, os processos vigentes (_As-Is_) foram mapeados em forma de diagramas de linguagem BPMN. Os diagramas se encontram na pasta de **Processos** do repositório, com subdiretórios dedicados para cada processo identificado. Cada subdiretório contém um arquivo que pode ser acessado e modificado pelo site **bpmn.io**.
