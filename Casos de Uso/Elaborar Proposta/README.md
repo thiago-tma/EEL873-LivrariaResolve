@@ -1,4 +1,4 @@
-#**Especificação do Caso de Uso: Elaborar Proposta**
+# **Especificação do Caso de Uso: Elaborar Proposta**
 **Ator Primário:** Vendedor (Felipe/Gabriela) Ator Secundário: Gerente Geral (Bruna) — acionada via include
 
 **Pré-condição:** O Vendedor recebeu uma solicitação de livros de um cliente cadastrado.
