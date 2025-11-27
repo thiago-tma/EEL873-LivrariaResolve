@@ -3,7 +3,7 @@
 
 **Pré-condição:** O Vendedor recebeu uma solicitação de livros de um cliente cadastrado.
 
-#Fluxo Principal
+# Fluxo Principal
 1. O Vendedor inicia a elaboração da proposta selecionando o pedido do cliente.
 
 2. O Sistema executa o caso de uso incluído "Pesquisar Livros":
@@ -23,7 +23,7 @@ Nota: A lista é passada para a Gerente Geral (Bruna), que define o preço basea
 
 8. O caso de uso termina com a proposta pronta para ser enviada (o envio é o próximo caso de uso no seu diagrama).
 
-#Fluxos Alternativos
+# Fluxos Alternativos
 
 A1. Cotação Pendente (Pausa no Processo)
 
