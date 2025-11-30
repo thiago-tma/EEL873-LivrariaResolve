@@ -1,5 +1,5 @@
 # EEL873-LivrariaResolve
-Repositório do trabalho da disciplina EEL873 (Engenharia de Software). Trabalho tem como base um sistema de atendimento a clientes da Livraria Resolve, uma livraria especializada em livros raros e de alto valor agregado, os quais, geralmente, já saíram de catálago.
+Repositório do trabalho da disciplina EEL873 (Engenharia de Software) do Grupo P (Thiago Motta, Pedro Mangrich, Pedro Rodrigues e Davi da Costa). Trabalho tem como base um sistema de atendimento a clientes da Livraria Resolve, uma livraria especializada em livros raros e de alto valor agregado, os quais, geralmente, já saíram de catálago.
 
 # Tarefa 1: Relatório de Entrevista com Proprietário (5W2H)
 
@@ -38,3 +38,8 @@ Foram coletados 5 funções desejadas pelas partes interessadas.
 # Tarefa 4 : Registro de Processos (BPMN)
 
 A partir das entrevistas realizadas, os processos vigentes (_As-Is_) foram mapeados em forma de diagramas de linguagem BPMN. Os diagramas se encontram na pasta de **Processos** do repositório, com subdiretórios dedicados para cada processo identificado. Cada subdiretório contém um arquivo que pode ser acessado e modificado pelo site **bpmn.io**.
+
+# Tarefa 5 : Histórias do Usuário
+
+As histórias do usuário são representações sucintas dos requisitos funcionais que o sistema a ser desenvolvido precisa acatar para resolver os problemas do usuário facilitar o alcance dos seus objetivos. As histórias do usuário do sistema atendendo a Livraria Resolve foram organizadas na mesma planilha da tarefa 2 (Partes Interessadas), em uma aba diferente.
+[Link da planilha](https://docs.google.com/spreadsheets/d/1DUdSgmw2rfjZduCucBqQiNxWH2wCIFqd32IC56AAFic/edit?usp=sharing)
