@@ -41,5 +41,9 @@ A partir das entrevistas realizadas, os processos vigentes (_As-Is_) foram mapea
 
 # Tarefa 5 : Histórias do Usuário
 
-As histórias do usuário são representações sucintas dos requisitos funcionais que o sistema a ser desenvolvido precisa acatar para resolver os problemas do usuário facilitar o alcance dos seus objetivos. As histórias do usuário do sistema atendendo a Livraria Resolve foram organizadas na mesma planilha da tarefa 2 (Partes Interessadas), em uma aba diferente.
+As histórias do usuário são representações sucintas dos requisitos funcionais que o sistema a ser desenvolvido precisa acatar para resolver os problemas do usuário e facilitar o alcance dos seus objetivos. As histórias do usuário do sistema atendendo a Livraria Resolve foram organizadas na mesma planilha da tarefa 2 (Partes Interessadas), em uma aba diferente.
 [Link da planilha](https://docs.google.com/spreadsheets/d/1DUdSgmw2rfjZduCucBqQiNxWH2wCIFqd32IC56AAFic/edit?usp=sharing)
+
+# Tarefa 6 : Casos de Uso
+
+Os casos de uso são especificações dos requisitos funcionais expressas em formas de narrativas, que possuem o fim de apresentar de forma clara o que o sistema deve ser capaz de realizar em cenários normais e alternativos de operação. Os casos de uso identificados do sistema idealizado para a Livraria Resolve estão representado no Diagrama de Casos de Uso na pasta **Casos de Uso**, e alguns casos de uso em si estão descritos em subdiretórios da mesma pasta.
