@@ -2,7 +2,7 @@ A fim de estimar o esforço necessário para implementar o sistema da Livraria R
 
 Inicialmente, foi montado um diagrama ER (Entidade-Relacionamento) simples para modelar os dados presentes no sistema e sua interação com o sistema ERP já instalado na empresa. O diagrama é simples no sentido de não incluir tabelas que normalmente existiriam no lugar de atributos (endereço, email, telefone, tipos de estados).
 
-DIAGRAMA
+![Diagrama ER](modeloER.PNG)
 
 - Um cliente pode ter vários pedidos, já finalizados ou não.
 - Pedidos são compostos por um ou mais itens de pedidos.
@@ -63,3 +63,4 @@ Dado estes elementos (ALIs, AIEs, EEs, SEs e CEs), supõe-se que as telas e form
 - 3 CEs por 3 a 4 PFs
 
 Resultando entre 156 a 208 PFs para o sistema idealizado da Livraria Resolve.
+
