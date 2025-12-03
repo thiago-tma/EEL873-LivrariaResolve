@@ -47,3 +47,7 @@ As histórias do usuário são representações sucintas dos requisitos funciona
 # Tarefa 6 : Casos de Uso
 
 Os casos de uso são especificações dos requisitos funcionais expressas em formas de narrativas, que possuem o fim de apresentar de forma clara o que o sistema deve ser capaz de realizar em cenários normais e alternativos de operação. Os casos de uso identificados do sistema idealizado para a Livraria Resolve estão representado no Diagrama de Casos de Uso na pasta **Casos de Uso**, e alguns casos de uso em si estão descritos em subdiretórios da mesma pasta.
+
+# Tarefa 7: Pontos de Função
+
+Para a análise dos pontos de função do sistema idealizado da Livraria Resolve, foi primeiro realizado um modelo ER do mesmo. A partir deste modelo, forma inferidos os arquivos lógicos e as funções transacionais com base no modelo e nos requisitos funcionais representados pelas histórias do usuário e dos casos de uso. O modelo, o raciocínio para a contagem dos PFs e o resultado se encontram no diretório **Pontos de Função**.
